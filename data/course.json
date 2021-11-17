@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e58cf155-f0e4-fe58-7f2e-19aaeae8ef21"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "FinTech: Shaping the Financial World ",
+  "course_description": "This course about financial technology, or FinTech, is for students wishing to explore the ways in which new technologies are disrupting the financial services industry\u2014driving material change in business models, products, applications and customer user interface. Amongst the significant technological trends affecting financial services into the 2020\u2019s, the class will explore AI, deep learning, blockchain technology and open APIs.\u00a0Students will gain an understanding of the key technologies, market structure, participants, regulation and the dynamics of change being brought about by FinTech.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.S08",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
